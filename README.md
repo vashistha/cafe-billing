@@ -3,6 +3,7 @@
 ## Pre-requisite
 * Java 1.8 +
 * Scala 2.12.6
+* sbt 1.1.4
 
 ## Running tests
 In terminal run following command   
