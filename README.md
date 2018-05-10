@@ -13,6 +13,8 @@ In terminal run following command
 2. BillGenerator code ignores the non-available menu items and continue processing.
 3. A maximum £20 service charge will apply in any case.
 
+### Note
+Kept both functions totalBillWithServiceCharge() and totalBill() available to public use
 
 ## Test Specification
 Cafe X menu consists of the following items:
